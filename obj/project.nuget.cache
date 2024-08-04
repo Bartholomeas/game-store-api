@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3BfWi6TjkziGwFkLZDfuz+TrKHl3YXZ730RiYd18kuDlb2mswUglZ1QvNZA0SU79DxgtEyHrnjb/Tc4EYO7EMw==",
+  "success": true,
+  "projectFilePath": "/Users/bartholomeas/Kod/moje/dotNET/GameStore/GameStore.Api/GameStore.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/bartholomeas/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/bartholomeas/.nuget/packages/minimalapis.extensions/0.11.0/minimalapis.extensions.0.11.0.nupkg.sha512",
+    "/Users/bartholomeas/.nuget/packages/minivalidation/0.8.0/minivalidation.0.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
